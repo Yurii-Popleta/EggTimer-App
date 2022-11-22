@@ -11,9 +11,7 @@ Creating timer
 
 * Understand about Swift Switch statements.
 * Understand how to use Swift Dictionaries.
-* Learn about Swift optionals. 
-* How to test our machine learning model.
-* How to use our finished model.
+* Learn about Swift optionals.
 
 ## Documentation
 
